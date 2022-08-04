@@ -1,0 +1,1 @@
+(function($){"use strict";$(document).on('click','.show-nav-right-contents',function(){$(".nav-right-content").toggleClass("active");});})(jQuery);
